@@ -1,6 +1,0 @@
-16-04-2020|15:59:59.072 -> void ApiManager::onDoTimeout() NO PING RESPONSE RECEIVED IN 10 SECONDS. FORCE RESTART THE API AUTH...
-16-04-2020|15:59:59.077 -> void WebSocketClient::onDisconnected() socket has been disconnected
-16-04-2020|15:59:59.077 -> void WebSocketClient::onDisconnected() socket has been disconnected
-16-04-2020|15:59:59.623 -> void WebSocketClient::onConnected() WebSocket connected
-16-04-2020|15:59:59.626 -> void WebSocketClient::onConnected() WebSocket connected
-16-04-2020|15:59:59.626 -> LOGIN TO BINARY API... with api key...
