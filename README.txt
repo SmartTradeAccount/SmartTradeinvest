@@ -15,9 +15,9 @@ and give API KEY access to "Read" Trade" and "Admin"
 More details about how it works:
 The bot place contracts BUY and SELL on timeframe 1 tick and two ticks. 
 Application  use a martingale strategy until it wins.
-Maximum step that was reached by me was 12 so for 0.35 at start you need aroung 500 dolars to rezist- but you can also test on a demo account and see how it works.
+Maximum step that was reached by me was 12 so for 0.35 at start you need arround 1250 dolars to rezist- but you can also test on a demo account and see how it works.
 Profit per hour is near by 100-200 dolars. 
-In one day you can make with 500$ -> 1200$ profits, if you dont trust me try it on your own. It is free for all for the moment. 
+In one day you can make with 1200$ -> 1200$ profits, if you dont trust me try it on your own. It is free for all for the moment. 
 
 By using this application you assume all the risks involved in trading and also in binary options.
 This is a powerfull trading system sold with thousand euros, but for me not money is important just people. 
