@@ -28,6 +28,18 @@ Step 11 chance is 1/ 10 000  contracts.
 
 Often maximum step is 1 2 3 4 and 5 and as can you see in demo videos.
 
+--------------	THREE STRATEGY TYPES-----------------
+1. Strategy 1 "Buy_Sell_SmartTrade-Martingale"
+This strategy will place CALLE(call or equal contracts in market) or PUTTE(put or equal contract in market) on duration 1 or 2 ticks. If the contract is lost the soft will place a opposite contract type ex if step 1 was CALLE step 2 will be PUTTE and STEP 3 CALLE, will place the opposite contracts until it wins. If the group was finished with a win, last contract type will be placed in market again ... and do to infinite this algo...)
+
+2. Strategy 2 "Buy-BuyOrSell-Sell-Martingale"
+This strategy will place randomly the first contract type and will multiply the  ammount in the next step with the same contract type
+Ex: PUTTE (step 1 -lost) PUTTE (step 2 lost) PUTTE(step 3 lost) ....PUTTE(step 6(win))
+
+3. Strategy 3 "Buy_Sell_NoMartingale"
+This strategy will place as the strategy 1 one and second oposite and so on until it wins but with the same amount set when login to the app.
+So step 1-> putte (amount 0.35) Step 2 (calle amount 0.35) and so on For this strategy you shall have wins> lost on the left side
+
 The bot take place contracts until it is win. If the acocunt has no meny for the step will be blocked in that step and you need to restart the application and after that you will start also for step 1.
 
 By using this application you assume all the risks involved in trading and also in binary options.
